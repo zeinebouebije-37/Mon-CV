@@ -11015,27 +11015,24 @@ section.resume-section .resume-section-content {
 
 .Arabe {
   width: 100%;
-  background: linear-gradient(to right, #FF9A9E, #FECFEF);
+ 
+  background: linear-gradient(to right, #b02a37  ,  #ca7d60);
 }
 
 
 .Francais {
   width: 60%;
-  background: linear-gradient(to right, #ACB6E5,  #86FDE8);
+  background: linear-gradient(to right, #0dcaf0,  #86FDE8);
 }
 
 .English {
   width: 40%;
 
-  background: linear-gradient(to right, #2F5CFF,  #DBF4FF);
+  background: linear-gradient(to right, #2F5CFF,  #083c80);
 }
 
 
-.Espagnol {
-  width: 20%;
- 
-  background: linear-gradient(to right, #9796F0,  #FBC7D4);
-}
+
 
 .skill {
   margin-bottom: 20px;
